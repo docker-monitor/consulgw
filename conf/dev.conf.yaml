@@ -1,0 +1,3 @@
+consulurl: 'localhost:8500'
+mongourl: 'localhost:27017'
+

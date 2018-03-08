@@ -1,2 +1,1 @@
-# consulgw
-A consul api gateway
+# CONSULGW is a consul api server.
